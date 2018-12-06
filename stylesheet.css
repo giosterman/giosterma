@@ -1,0 +1,94 @@
+.font {
+	font-family: sans-serif;
+}
+
+.Oswald {
+	font-family: 'Fjalla One', sans-serif;
+}
+
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: yellow;
+}
+a:active {
+    color: black;
+}
+
+.text {
+font-size: 20px; 
+}
+
+img {
+    float: left;
+}
+
+.textcolor {
+	color: grey
+}
+
+blockquote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.hero-image{
+	position: relative;
+	height: 500px;
+	overflow: hidden;
+	background: url(icedcoffee.jpg) no-repeat center;
+	background-size: cover;
+}
+
+.hero-image2{
+	position: relative;
+	height: 500px;
+	overflow: hidden;
+	background: url(2.jpg) no-repeat center;
+	background-size: cover;
+}
+
+.hero-image3{
+	position: relative;
+	height: 500px;
+	overflow: hidden;
+	background: url(3.jpg) no-repeat center;
+	background-size: cover;
+}
+
+.hero-image4{
+	position: relative;
+	height: 500px;
+	overflow: hidden;
+	background: url(4.jpg) no-repeat center;
+	background-size: cover;
+}
+
+.hero-image5{
+	position: relative;
+	height: 500px;
+	overflow: hidden;
+	background: url(5.jpg) no-repeat center;
+	background-size: cover;
+}
+
+.container h1{
+	font-size: 72px;
+	letter-spacing: 0.2em;
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	padding-top: 55px;
+}
+
+.logo {
+	height: 25px;
+	width: 25px;
+}
